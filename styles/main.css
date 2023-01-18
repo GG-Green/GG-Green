@@ -6,8 +6,8 @@ html {
 #TitleBar {
 	background-color: rgb(94, 89, 89);
 	position: relative;
-    width: 1920px;
-    height: 50px;
+	width: 1920px;
+	height: 50px;
 	overflow: hidden;
 }
 
@@ -15,7 +15,7 @@ html {
 	position: relative;
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: 25px;
-	top: 10px;
+	top: 12px;
 	left: 25px;
 }
 
@@ -23,6 +23,11 @@ html {
     position: relative;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 35px;
+}
+
+#Toggle1 {
+	position: relative;
+	top: 20px
 }
 
 #Buttons {
@@ -37,6 +42,7 @@ html {
 	font-size: 25px;
 	padding-left: 8px;
 	padding-right: 8px;
+	top: 4px;
 }
 
 .text {
