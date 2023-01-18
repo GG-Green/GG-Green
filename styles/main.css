@@ -1,10 +1,10 @@
 html {
-	background-color: rgb(189, 189, 189);
+	background-color: rgb(79, 75, 75);
 	overflow-x: hidden;
 }
 
 #TitleBar {
-	background-color: rgb(74, 70, 70);
+	background-color: rgb(94, 89, 89);
 	position: relative;
     width: 1920px;
     height: 50px;
@@ -15,31 +15,32 @@ html {
 	position: relative;
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: 25px;
-	top: 25px;
+	top: 10px;
 	left: 25px;
 }
 
 #ButtonTitle {
     position: relative;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 20px;
+    font-size: 35px;
 }
 
 #Buttons {
 	position: relative;
-	top: 5px;
+	top: 20px;
 	left: 20px
 }
 
 .checkboxtext {
-    position: relative;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 15px;
+	position: relative;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 25px;
 	padding-left: 8px;
 	padding-right: 8px;
 }
 
 .text {
+	font-family: Arial, Helvetica, sans-serif;
 	color: white;
 }
 
